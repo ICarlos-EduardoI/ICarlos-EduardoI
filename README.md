@@ -8,11 +8,8 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
         <a href="https://www.linkedin.com/in/carlos-eduardo-8b910b2bb/">
         <img 
             alt="Linkedin" 
-            title="Me siga no linkedin" 
-
-        />
-    </a>
-</p>
+            title="Me siga no linkedin"
+        </p>
 
 ---
 
