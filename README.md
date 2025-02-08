@@ -2,9 +2,16 @@
 
 **`Desenvolvedor`**
 
-"Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento em HTML, CSS e JavaScript e estou sempre buscando aprimorar minhas habilidades. Participei de competições de robótica nacionais e internacionais, onde desenvolvi experiência em programação, automação e trabalho em equipe. Atualmente, estou explorando desenvolvimento web.
+Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento em HTML, CSS e JavaScript e estou sempre buscando aprimorar minhas habilidades. Participei de competições de robótica nacionais e internacionais, onde desenvolvi experiência em programação, automação e trabalho em equipe. Atualmente, estou explorando desenvolvimento web.
 
-<p align="left"> 
+<p align="left">
+        <a href="https://www.linkedin.com/in/carlos-eduardo-8b910b2bb/">
+        <img 
+            alt="Linkedin" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
 </p>
 
 ---
