@@ -8,8 +8,6 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ICarlos-EduardoI&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo github stats"/> 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICarlos-EduardoI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -64,7 +62,5 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </br>
-
-<img src="https://raw.githubusercontent.com/ICarlos-EduardoI/ICarlos-EduardoI/output" alt="" />
 
 
