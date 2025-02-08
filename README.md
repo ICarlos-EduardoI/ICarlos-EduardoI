@@ -63,5 +63,4 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
