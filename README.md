@@ -9,8 +9,7 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
         <img 
             alt="Linkedin" 
             title="Me siga no linkedin" 
-            src="?logo=icons8-linkedin-50"
-                https://custom-icon-badges.demolab.com?logo=icons8-linkedin-50color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630
+            src="https://custom-icon-badges.demolab.com?logo=icons8-linkedin-51"
         />
     </a>
 </p>
