@@ -4,12 +4,6 @@
 
 Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento em HTML, CSS e JavaScript e estou sempre buscando aprimorar minhas habilidades. Participei de competições de robótica nacionais e internacionais, onde desenvolvi experiência em programação, automação e trabalho em equipe. Atualmente, estou explorando desenvolvimento web.
 
-<p align="left">
-        <a href="https://www.linkedin.com/in/carlos-eduardo-8b910b2bb/">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no linkedin"
-        </p>
 
 ---
 
