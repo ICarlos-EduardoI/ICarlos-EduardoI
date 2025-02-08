@@ -63,12 +63,5 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </br>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ICarlos-EduardoI}/count.svg" /></p> 
-<br></div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
