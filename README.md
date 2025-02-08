@@ -1,80 +1,48 @@
-# 👩🏻‍💻 Carlos Eduardo
+import datetime
 
-**`Desenvolvedor`**
+def generate_readme():
+    username = "Carlos"
+    bio = "Estudante de Ciência da Computação e entusiasta em tecnologia. Apaixonado por desenvolvimento, segurança e investimentos. 🚀"
+    skills = ["Python", "C", "JavaScript", "HTML & CSS", "LabVIEW", "Git", "Linux"]
+    projects = [
+        {"name": "Projeto de Automação", "repo": "https://github.com/ICarlos-EduardoI/automacao"},
+        {"name": "Portfolio Web", "repo": "https://github.com/ICarlos-EduardoI/portfolio"},
+    ]
+    social_links = {
+        "LinkedIn": "https://www.linkedin.com/in/seuusuario/",
+        "GitHub": "https://github.com/seuusuario",
+    }
+    
+    # Criando o conteúdo do README
+    readme_content = f"""
+# Olá, eu sou {username}! 👋
 
-Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento em HTML, CSS e JavaScript e estou sempre buscando aprimorar minhas habilidades. Participei de competições de robótica nacionais e internacionais, onde desenvolvi experiência em programação, automação e trabalho em equipe. Atualmente, estou explorando desenvolvimento web.
+{bio}
+
+## 🚀 Habilidades
+"""
+    for skill in skills:
+        readme_content += f"- {skill}\n"
+    
+    readme_content += "\n## 📂 Projetos\n"
+    for project in projects:
+        readme_content += f"- [{project['name']}]({project['repo']})\n"
+    
+    readme_content += "\n## 🌍 Conecte-se comigo\n"
+    for platform, link in social_links.items():
+        readme_content += f"- [{platform}]({link})\n"
+    
+    readme_content += f"\n_Última atualização: {datetime.date.today()}_\n"
+    
+    # Escrevendo o arquivo README.md
+    with open("README.md", "w", encoding="utf-8") as file:
+        file.write(readme_content)
+    
+    print("README.md gerado com sucesso!")
+
+if __name__ == "__main__":
+    generate_readme()
+ 
 
 
-<div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ICarlos-EduardoI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICarlos-EduardoI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
