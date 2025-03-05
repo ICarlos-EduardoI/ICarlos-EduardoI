@@ -72,7 +72,6 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-/>
 
 </br>
 
