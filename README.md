@@ -62,12 +62,4 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-  />
 
