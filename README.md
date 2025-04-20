@@ -70,16 +70,4 @@ Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
   />
-  
-  <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://w7.pngwing.com/pngs/468/272/png-transparent-java-platform-enterprise-edition-computer-icons-java-api-for-restful-web-services-java-miscellaneous-text-logo-thumbnail.png" 
-  />
-
-</br>
-
 
