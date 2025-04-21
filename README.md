@@ -4,7 +4,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento em HTML, CSS e JavaScript, Typescript e outras tecnologias, estou sempre buscando aprimorar minhas habilidades. Participei de competições de robótica nacionais e internacionais, onde desenvolvi experiência em programação, automação e trabalho em equipe. Atualmente, estou explorando desenvolvimento web e criação de software.
+Me chamo Carlos e sou estudante de Ciência da Computação. Tenho conhecimento em HTML, CSS e JavaScript, Bootstrap e outras tecnologias, estou sempre buscando aprimorar minhas habilidades. Participei de competições de robótica nacionais e internacionais, onde desenvolvi experiência em programação, automação e trabalho em equipe. Atualmente, estou explorando desenvolvimento web e criação de software.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ICarlos-EduardoI&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
